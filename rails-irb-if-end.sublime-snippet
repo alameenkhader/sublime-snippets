@@ -6,7 +6,7 @@
         <% end %>
       ]]>
     </content>
-    <tabTrigger>r</tabTrigger>
+    <tabTrigger>if</tabTrigger>
     <scope>text.html.ruby, text.haml</scope>
     <description>Rails irb tag</description>
 </snippet>
