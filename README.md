@@ -1,13 +1,7 @@
-Sublime Snippets
-================
-
-jQuery
-
-
 Rails
+=====
 
-  irb
+irb
   
-    if - if ...end
-    
-    r  - <%= ... %>
+if - if ...end
+r  - <%= ... %>
