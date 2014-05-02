@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<%= ${1:enjoy-man} %>]></content>
+    <tabTrigger>r</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>Rails irb tag</description>
+</snippet>
