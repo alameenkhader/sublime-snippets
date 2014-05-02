@@ -1,4 +1,10 @@
-sublime-snippets
+Sublime Snippets
 ================
 
-Sublime Snippets
+jQuery
+
+
+Rails
+  irb
+    if - if ...end
+    r  - <%= ... %>
