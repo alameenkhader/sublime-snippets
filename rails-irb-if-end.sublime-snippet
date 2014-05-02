@@ -1,0 +1,12 @@
+<snippet>
+    <content>
+      <![CDATA[
+        <% if ${1:cond} %>
+          ${2:statement}
+        <% end %>
+      ]]>
+    </content>
+    <tabTrigger>r</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>Rails irb tag</description>
+</snippet>
