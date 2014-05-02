@@ -4,5 +4,5 @@ Rails
 irb
   
   
-if - if ...end
-r  - <%= ... %>
+* if - if ...end
+* r  - <%= ... %>
