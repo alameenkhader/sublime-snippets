@@ -1,8 +1,4 @@
-Rails
-=====
-
-irb
+**Rails - html.erb**
   
-  
-* if - if ...end
-* r  - <%= ... %>
+* if - `<% if cond %> ...<% end %>`
+* r  - `<%= ... %>`
