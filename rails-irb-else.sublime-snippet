@@ -1,9 +1,5 @@
 <snippet>
-    <content><![CDATA[
-<% else %>
-    ${1:statement}
-<% end %>
-]]>
+    <content><![CDATA[<% else %>]]>
     </content>
     <tabTrigger>else</tabTrigger>
     <scope>text.html.ruby, text.haml</scope>
