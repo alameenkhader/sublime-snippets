@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<% else %>
+    ${1:statement}
+<% end %>
+]]>
+    </content>
+    <tabTrigger>else</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>Rails else tag</description>
+</snippet>
