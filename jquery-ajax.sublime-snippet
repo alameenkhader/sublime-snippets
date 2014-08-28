@@ -4,11 +4,20 @@
 		url: '${1}',
 		type: '${2:post}',
 		data: ${3:\{\}},
-		success: function (${4:data}) \{
-			${100:${4:data}}$0
+		beforeSend: function(e, data, status, xhr) {
+			${4:statement}
+		\},
+		success: function(e, data, status, xhr) \{
+			${5:statement},
+		\},
+		complete: function() \{
+			${6:statement},
+		\},
+		error: function(evt, xhr, status, error) \{
+			${7:statement},
 		\}
 	\});]]></content>
-	<tabTrigger>ajax</tabTrigger>
+	<tabTrigger>$.ajax</tabTrigger>
 	<scope>source.js,source.js.embedded.html</scope>
 	<description>jQuery AJAX call</description>
 </snippet>
